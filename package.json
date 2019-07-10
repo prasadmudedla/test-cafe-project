@@ -4,7 +4,8 @@
     "description": "Testcasfe Example Project",
     "main": "index.js",
     "scripts": {
-        "test:chrome": "./node_modules/.bin/testcafe chrome tests"
+        "test:chrome": "./node_modules/.bin/testcafe chrome tests",
+        "test:firefox": "./node_modules/.bin/testcafe firefox tests"
     },
     "author": "Prasad Mudedla",
     "license": "ISC",
